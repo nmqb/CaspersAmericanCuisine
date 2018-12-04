@@ -92,12 +92,13 @@ h4
         &:active 
             background-color: $pgreen
             color: $wht
-    .navlinks
-        background-color: $ddgray
-        margin-right: 0
-    .navinfo
-        text-align: right
-        padding-right: 14px
+.navlinks
+    background-color: $ddgray
+    margin-right: 0
+
+.navinfo
+    text-align: right
+    padding-right: 14px
 
 .sticky 
     position: fixed
@@ -112,18 +113,22 @@ h4
 header
     @include flexbox
     flex-direction: row
+    text-align: center
     height: 500px
     background: $wht
 
+.headerimage
+    overflow: hidden
+    width: 50%
+
 .logo 
     flex: 50%
-    background: $wht
+    img 
+        width: 80%
 
 .diningtable 
     opacity: 0.8
-
-.headerimage 
-    flex: 50%
+ 
 
 
 // ////////////////////////// RESTAURANT LOCATION    
@@ -150,7 +155,7 @@ header
     color: $lgray
     justify-content: center
 
-// //////////////////////////// OUR STORY PREVIEW
+// //////////////////////////// MENU PREVIEW
 .menupreview
     display: grid
     height: 1000px
@@ -167,6 +172,9 @@ header
         flex-direction: column
         justify-content: center
         line-height: 25px
+
+.formob img
+    display: none
 
 .menudescription
     padding: 10%
