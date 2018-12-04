@@ -12,5 +12,4 @@ HTML5, CSS3/SASS, and JavaScript
 	- a photo gallery of the restaurant
  	- a hiring page
   
-![coffeeshopscreencap](CaspersAmericanCuisine/images/Casperslogo.png)
-
+ ![cacgithub](https://user-images.githubusercontent.com/36938804/49464612-63398000-f7c9-11e8-93ea-3b8a24d1bff2.png)
