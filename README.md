@@ -1,5 +1,5 @@
 <h1 align="center"><b> Caspers American Cuisine </b></h1>
-<p align="center">This is a site for an upscale American restayrant laying out their menu, locations, and ways to make reservations!<br>
+<p align="center">This is a site for an upscale American restaurant laying out their menu, locations, and ways to make reservations!<br>
 Fully designed and coded by Nicole.</p>
 
 <br><br>
